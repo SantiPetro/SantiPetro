@@ -13,9 +13,6 @@
 	
 ## **👨 Sobre mi:**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 
 - Estoy cursando el 3er año de Ingeniería en Sistemas de Información en UTN FRBA
 - Actualmente estoy trabajando de Desarrollador Front-End
