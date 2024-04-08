@@ -65,52 +65,5 @@
 <br>
 <br>
 
-## <b> 🌎 Conectate conmigo: </b>
-<br>
-<div align='left'>
 
-<ul>
-
-
-<a href="https://www.linkedin.com/in/santiago-corrales-petrocelli-84b413250/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Santiago Corrales Petrocelli-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<br>
-
-
-<a href="https://twitter.com/santipetroo" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  santipetroo-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-
-<br>
-
-
-<a href="mailto:santicorralesp@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Santiago Corrales Petrocelli-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-	
-</ul>
-</div>
-
-<br>
-
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-<br>
-<br>
-
-
----
-
-<br>
 
