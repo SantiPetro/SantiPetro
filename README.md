@@ -59,9 +59,14 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)
+    ![Prolog](https://img.shields.io/badge/Prolog-D30001.svg?style=for-the-badge&logo=&logoColor=white)
+    ![Wollok](https://img.shields.io/badge/Wollok-CC342D.svg?style=for-the-badge&logo=&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java-F3F5F5.svg?style=for-the-badge&logo=&logoColor=black)
+
+    ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
   
 <br>
 
