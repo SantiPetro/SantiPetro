@@ -8,7 +8,7 @@
 ## **👨 Sobre mi:**
 
 
-- Estoy cursando el 3er año de Ingeniería en Sistemas de Información en UTN FRBA
+- Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en **UTN FRBA**
 - Actualmente estoy trabajando de Desarrollador Front-End
 - Nací en Buenos Aires, Argentina, el 12/11/2003
 - Soy hincha de Boca Juniors 💙💛💙
